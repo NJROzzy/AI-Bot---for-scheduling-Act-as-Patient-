@@ -1,0 +1,9 @@
+{"ts_utc": "2026-02-19T14:40:44.748222", "call_sid": "CA8ba398b9373429e6cb7cffc4ba5f7f8b", "speaker": "patient_bot", "text": "Hi, I'd like to schedule an appointment, please. What availability do you have?"}
+{"ts_utc": "2026-02-19T14:40:54.331824", "call_sid": "CA8ba398b9373429e6cb7cffc4ba5f7f8b", "speaker": "you_human", "text": "A."}
+{"ts_utc": "2026-02-19T14:40:55.456569", "call_sid": "CA8ba398b9373429e6cb7cffc4ba5f7f8b", "speaker": "patient_bot", "text": "Could you please provide me with the available dates and times?"}
+{"ts_utc": "2026-02-19T14:41:05.302264", "call_sid": "CA8ba398b9373429e6cb7cffc4ba5f7f8b", "speaker": "you_human", "text": "Okay."}
+{"ts_utc": "2026-02-19T14:41:06.236098", "call_sid": "CA8ba398b9373429e6cb7cffc4ba5f7f8b", "speaker": "patient_bot", "text": "I'm ready to hear the available dates and times for the appointment."}
+{"ts_utc": "2026-02-19T14:41:14.596061", "call_sid": "CA8ba398b9373429e6cb7cffc4ba5f7f8b", "speaker": "you_human", "text": "20 20th of February."}
+{"ts_utc": "2026-02-19T14:41:15.526902", "call_sid": "CA8ba398b9373429e6cb7cffc4ba5f7f8b", "speaker": "patient_bot", "text": "I'd like to schedule my appointment for February 20th, please."}
+{"ts_utc": "2026-02-19T14:41:24.847841", "call_sid": "CA8ba398b9373429e6cb7cffc4ba5f7f8b", "speaker": "you_human", "text": "Yes."}
+{"ts_utc": "2026-02-19T14:41:26.278301", "call_sid": "CA8ba398b9373429e6cb7cffc4ba5f7f8b", "speaker": "patient_bot", "text": "Thank you! I confirm my appointment for February 20th."}

@@ -1,0 +1,5 @@
+{"ts_utc": "2026-02-19T15:48:59.665276", "call_sid": "CAf5cb50c00c981475735125cff889296f", "speaker": "patient_bot", "text": "Hi there! I hope you're doing well. I'm calling to schedule an appointment."}
+{"ts_utc": "2026-02-19T15:49:10.612462", "call_sid": "CAf5cb50c00c981475735125cff889296f", "speaker": "you_human", "text": "Hello."}
+{"ts_utc": "2026-02-19T15:49:12.761654", "call_sid": "CAf5cb50c00c981475735125cff889296f", "speaker": "patient_bot", "text": "Great! Could you let me know your availability for appointments?"}
+{"ts_utc": "2026-02-19T15:49:26.315671", "call_sid": "CAf5cb50c00c981475735125cff889296f", "speaker": "you_human", "text": "What is your name, please?"}
+{"ts_utc": "2026-02-19T15:49:26.317292", "call_sid": "CAf5cb50c00c981475735125cff889296f", "speaker": "patient_bot", "text": "Sure \u2014 my full name is Nitish John Rawat."}

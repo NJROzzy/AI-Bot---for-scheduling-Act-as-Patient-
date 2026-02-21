@@ -1,0 +1,20 @@
+{
+  "summary": "The phone call transcript reveals a customer interaction regarding booking a physical therapy appointment. The agent provided options but repeated the available times multiple times, which may indicate a lack of clarity or potential confusion in communication.",
+  "issues": [
+    {
+      "severity": "medium",
+      "category": "Communication Clarity",
+      "evidence": "The customer asked for the available time options to be repeated twice.",
+      "why_it_matters": "Repeated requests for information can indicate that the customer is confused or not receiving clear communication, which can lead to frustration and a poor customer experience.",
+      "suggestion": "The agent should ensure that the information is conveyed clearly and concisely the first time to avoid confusion."
+    },
+    {
+      "severity": "low",
+      "category": "Appointment Availability",
+      "evidence": "The agent initially stated there were no appointments available on Wednesday afternoons.",
+      "why_it_matters": "Providing accurate information about appointment availability is crucial for customer satisfaction and trust in the service.",
+      "suggestion": "Ensure that the scheduling system is up-to-date and that agents are trained to communicate availability accurately."
+    }
+  ],
+  "overall_score": 6
+}

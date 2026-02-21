@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# dotenv / secrets
+.env
+*.env
+
+# macOS
+.DS_Store
+
+# Audio / large artifacts (optional but recommended)
+*.wav
+*.mp3
+*.m4a
+
+# Logs / reports / generated outputs
+*.log
+reports/
+recordings/
+transcripts/
+tts_audio/
+

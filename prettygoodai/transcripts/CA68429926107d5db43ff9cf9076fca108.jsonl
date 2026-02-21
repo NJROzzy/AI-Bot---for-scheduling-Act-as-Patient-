@@ -1,0 +1,12 @@
+{"ts_utc": "2026-02-19T15:21:03.572082", "call_sid": "CA68429926107d5db43ff9cf9076fca108", "speaker": "patient_bot", "text": "Hi, I'd like to schedule an appointment, please. What availability do you have?"}
+{"ts_utc": "2026-02-19T15:21:15.136452", "call_sid": "CA68429926107d5db43ff9cf9076fca108", "speaker": "you_human", "text": "For a man. May I know your name first."}
+{"ts_utc": "2026-02-19T15:21:16.315217", "call_sid": "CA68429926107d5db43ff9cf9076fca108", "speaker": "patient_bot", "text": "My name is John. What availability do you have for an appointment?"}
+{"ts_utc": "2026-02-19T15:21:23.381322", "call_sid": "CA68429926107d5db43ff9cf9076fca108", "speaker": "you_human", "text": "You confirm your date of birth."}
+{"ts_utc": "2026-02-19T15:21:24.503365", "call_sid": "CA68429926107d5db43ff9cf9076fca108", "speaker": "patient_bot", "text": "My date of birth is January 15, 1985."}
+{"ts_utc": "2026-02-19T15:21:35.904391", "call_sid": "CA68429926107d5db43ff9cf9076fca108", "speaker": "you_human", "text": "Match your name."}
+{"ts_utc": "2026-02-19T15:21:37.199781", "call_sid": "CA68429926107d5db43ff9cf9076fca108", "speaker": "patient_bot", "text": "Yes, that's correct. Can you please tell me the available appointment slots?"}
+{"ts_utc": "2026-02-19T15:21:54.609543", "call_sid": "CA68429926107d5db43ff9cf9076fca108", "speaker": "patient_bot", "text": "What availability do you have for an appointment?"}
+{"ts_utc": "2026-02-19T15:22:03.112895", "call_sid": "CA68429926107d5db43ff9cf9076fca108", "speaker": "you_human", "text": "What is the current date of birth?"}
+{"ts_utc": "2026-02-19T15:22:04.021700", "call_sid": "CA68429926107d5db43ff9cf9076fca108", "speaker": "patient_bot", "text": "My date of birth is January 15, 1985."}
+{"ts_utc": "2026-02-19T15:22:18.982203", "call_sid": "CA68429926107d5db43ff9cf9076fca108", "speaker": "you_human", "text": "For you."}
+{"ts_utc": "2026-02-19T15:22:19.905191", "call_sid": "CA68429926107d5db43ff9cf9076fca108", "speaker": "patient_bot", "text": "Thank you! Can you let me know the available appointment slots?"}

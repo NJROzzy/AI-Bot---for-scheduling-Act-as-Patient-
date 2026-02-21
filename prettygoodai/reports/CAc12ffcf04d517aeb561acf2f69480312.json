@@ -1,0 +1,13 @@
+{
+  "summary": "The phone call transcript reveals a significant application error that occurs while attempting to schedule a physical therapy appointment. This issue disrupts the user experience and prevents the caller from completing their request.",
+  "issues": [
+    {
+      "severity": "high",
+      "category": "Application Error",
+      "evidence": "An application error has occurred. Goodbye.",
+      "why_it_matters": "This error prevents the user from successfully scheduling an appointment, leading to frustration and potential loss of business.",
+      "suggestion": "Investigate the cause of the application error and implement a fix to ensure seamless appointment scheduling."
+    }
+  ],
+  "overall_score": 3
+}

@@ -1,0 +1,20 @@
+{
+  "summary": "The phone call transcript indicates a significant application error that interrupts the user experience. The presence of a language option suggests a bilingual service, but the error message detracts from the overall quality of the interaction.",
+  "issues": [
+    {
+      "severity": "high",
+      "category": "Application Error",
+      "evidence": "An application error has occurred.",
+      "why_it_matters": "This error prevents users from completing their intended tasks, leading to frustration and potential loss of customers.",
+      "suggestion": "Investigate the cause of the application error and implement a fix to ensure smooth operation."
+    },
+    {
+      "severity": "low",
+      "category": "User Experience",
+      "evidence": "Part of pretty good.",
+      "why_it_matters": "The incomplete phrase may confuse users and does not provide clear information.",
+      "suggestion": "Ensure all messages are complete and clear to enhance user understanding."
+    }
+  ],
+  "overall_score": 3
+}

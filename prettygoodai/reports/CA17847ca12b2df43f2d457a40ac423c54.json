@@ -1,0 +1,20 @@
+{
+  "summary": "The phone call transcript reveals a conversation between a customer and a service representative regarding scheduling a physical therapy appointment. The representative repeated a request for the reason for the visit, which may indicate a lack of clarity in communication or a system issue.",
+  "issues": [
+    {
+      "severity": "med",
+      "category": "Repetitive Request",
+      "evidence": "The representative asked for the reason for the visit twice in succession.",
+      "why_it_matters": "Repetitive requests can frustrate customers and lead to a negative experience, suggesting inefficiency in the system.",
+      "suggestion": "Implement a check to avoid repeating questions that have already been asked and answered."
+    },
+    {
+      "severity": "low",
+      "category": "Appointment Availability Communication",
+      "evidence": "The representative stated there were no available appointments on Wednesday afternoon but did not provide alternative options immediately.",
+      "why_it_matters": "Providing immediate alternative options can enhance customer satisfaction and streamline the scheduling process.",
+      "suggestion": "Train representatives to offer alternative dates or times as soon as they confirm unavailability."
+    }
+  ],
+  "overall_score": 6
+}

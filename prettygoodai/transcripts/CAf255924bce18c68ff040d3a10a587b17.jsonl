@@ -1,0 +1,9 @@
+{"ts_utc": "2026-02-19T15:36:57.142103", "call_sid": "CAf255924bce18c68ff040d3a10a587b17", "speaker": "patient_bot", "text": "Hi, I\u2019d like to schedule a routine appointment. Can you tell me what your availability looks like?"}
+{"ts_utc": "2026-02-19T15:37:08.768884", "call_sid": "CAf255924bce18c68ff040d3a10a587b17", "speaker": "you_human", "text": "What is your name, please?"}
+{"ts_utc": "2026-02-19T15:37:08.769603", "call_sid": "CAf255924bce18c68ff040d3a10a587b17", "speaker": "patient_bot", "text": "Sure \u2014 my full name is Nitish John Rawat, and my date of birth is August 2nd, 2002."}
+{"ts_utc": "2026-02-19T15:37:25.534410", "call_sid": "CAf255924bce18c68ff040d3a10a587b17", "speaker": "you_human", "text": "okay, now, they are available 21st and 22nd, from 2 pm to 5 PM,"}
+{"ts_utc": "2026-02-19T15:37:27.438535", "call_sid": "CAf255924bce18c68ff040d3a10a587b17", "speaker": "patient_bot", "text": "Got it, can I take an appointment on the 21st at 3 PM?"}
+{"ts_utc": "2026-02-19T15:37:41.768895", "call_sid": "CAf255924bce18c68ff040d3a10a587b17", "speaker": "you_human", "text": "okay, booked"}
+{"ts_utc": "2026-02-19T15:37:44.172946", "call_sid": "CAf255924bce18c68ff040d3a10a587b17", "speaker": "patient_bot", "text": "Thank you! Just to confirm, that's the 21st at 3 PM, right?"}
+{"ts_utc": "2026-02-19T15:37:57.338025", "call_sid": "CAf255924bce18c68ff040d3a10a587b17", "speaker": "you_human", "text": "Yes, this is the right."}
+{"ts_utc": "2026-02-19T15:37:58.844725", "call_sid": "CAf255924bce18c68ff040d3a10a587b17", "speaker": "patient_bot", "text": "Great, thank you for confirming! See you then."}

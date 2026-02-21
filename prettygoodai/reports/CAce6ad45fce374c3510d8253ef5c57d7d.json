@@ -1,0 +1,20 @@
+{
+  "summary": "The phone call transcript details a customer interaction for booking a physical therapy appointment. The agent successfully scheduled an appointment but there were issues with the availability of the requested time slot and a potential confusion regarding the date format.",
+  "issues": [
+    {
+      "severity": "high",
+      "category": "Appointment Availability",
+      "evidence": "The customer requested an appointment on Wednesday afternoon, but there were no available slots.",
+      "why_it_matters": "Failing to provide the requested appointment time can lead to customer dissatisfaction and loss of trust in the service.",
+      "suggestion": "Improve the scheduling system to ensure accurate availability information is provided to customers."
+    },
+    {
+      "severity": "medium",
+      "category": "Date Confirmation",
+      "evidence": "The agent confirmed an appointment for Tuesday, February 24, but did not clarify the year.",
+      "why_it_matters": "Ambiguity in date confirmation can lead to misunderstandings and missed appointments.",
+      "suggestion": "Always confirm the year when scheduling appointments to avoid confusion."
+    }
+  ],
+  "overall_score": 7
+}

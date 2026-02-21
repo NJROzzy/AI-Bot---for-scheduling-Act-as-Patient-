@@ -1,0 +1,11 @@
+{"ts_utc": "2026-02-19T15:57:58.480773", "call_sid": "CA2fdb494a458ab3772660ea90dc0830f2", "speaker": "patient_bot", "text": "Good morning. I'm calling to schedule an appointment."}
+{"ts_utc": "2026-02-19T15:58:08.519454", "call_sid": "CA2fdb494a458ab3772660ea90dc0830f2", "speaker": "you_human", "text": "What is your name, please?"}
+{"ts_utc": "2026-02-19T15:58:08.519969", "call_sid": "CA2fdb494a458ab3772660ea90dc0830f2", "speaker": "patient_bot", "text": "Sure \u2014 my full name is Nitish John Rawat."}
+{"ts_utc": "2026-02-19T15:58:16.348724", "call_sid": "CA2fdb494a458ab3772660ea90dc0830f2", "speaker": "you_human", "text": "Just to confirm, what is your date of birth?"}
+{"ts_utc": "2026-02-19T15:58:16.349327", "call_sid": "CA2fdb494a458ab3772660ea90dc0830f2", "speaker": "patient_bot", "text": "Sure \u2014 my date of birth is August 2nd, 2002."}
+{"ts_utc": "2026-02-19T15:58:26.262109", "call_sid": "CA2fdb494a458ab3772660ea90dc0830f2", "speaker": "you_human", "text": "Okay, now they're not available."}
+{"ts_utc": "2026-02-19T15:58:27.663916", "call_sid": "CA2fdb494a458ab3772660ea90dc0830f2", "speaker": "patient_bot", "text": "Oh, I see. When will they be available next?"}
+{"ts_utc": "2026-02-19T15:58:41.891343", "call_sid": "CA2fdb494a458ab3772660ea90dc0830f2", "speaker": "you_human", "text": "At 3:00 p.m. to 5:00 p.m."}
+{"ts_utc": "2026-02-19T15:58:43.451306", "call_sid": "CA2fdb494a458ab3772660ea90dc0830f2", "speaker": "patient_bot", "text": "Got it. Can I schedule an appointment for 3:00 p.m.?"}
+{"ts_utc": "2026-02-19T15:58:55.239112", "call_sid": "CA2fdb494a458ab3772660ea90dc0830f2", "speaker": "you_human", "text": "Yes, it is confirmed. 3 p.m. 20th."}
+{"ts_utc": "2026-02-19T15:58:56.646630", "call_sid": "CA2fdb494a458ab3772660ea90dc0830f2", "speaker": "patient_bot", "text": "Thank you! Just to confirm, my appointment is on the 20th at 3 p.m."}

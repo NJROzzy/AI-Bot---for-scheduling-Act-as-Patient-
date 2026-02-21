@@ -1,0 +1,13 @@
+{
+  "summary": "The phone call transcript reveals a significant application error that occurred during the identity verification process. This issue led to an abrupt termination of the call, which could negatively impact customer experience and trust in the service.",
+  "issues": [
+    {
+      "severity": "high",
+      "category": "Application Error",
+      "evidence": "An application error has occurred during the identity verification process.",
+      "why_it_matters": "This error prevents customers from completing their calls, leading to frustration and potential loss of business.",
+      "suggestion": "Investigate the application error and implement a fix to ensure smooth operation during identity verification."
+    }
+  ],
+  "overall_score": 3
+}

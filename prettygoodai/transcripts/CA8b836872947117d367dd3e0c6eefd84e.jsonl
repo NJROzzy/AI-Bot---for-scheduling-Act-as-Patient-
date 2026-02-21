@@ -1,0 +1,8 @@
+{"ts_utc": "2026-02-19T14:35:17.087629", "call_sid": "CA8b836872947117d367dd3e0c6eefd84e", "speaker": "patient_bot", "text": "Hi, I'd like to schedule an appointment, please. What availability do you have?"}
+{"ts_utc": "2026-02-19T14:35:30.267716", "call_sid": "CA8b836872947117d367dd3e0c6eefd84e", "speaker": "you_human", "text": "Hello."}
+{"ts_utc": "2026-02-19T14:35:32.053963", "call_sid": "CA8b836872947117d367dd3e0c6eefd84e", "speaker": "patient_bot", "text": "Great! Could you tell me what dates and times you have available?"}
+{"ts_utc": "2026-02-19T14:35:41.775975", "call_sid": "CA8b836872947117d367dd3e0c6eefd84e", "speaker": "you_human", "text": "Hello."}
+{"ts_utc": "2026-02-19T14:35:42.891059", "call_sid": "CA8b836872947117d367dd3e0c6eefd84e", "speaker": "patient_bot", "text": "Hi! I'm looking to schedule an appointment. What availability do you have?"}
+{"ts_utc": "2026-02-19T14:35:57.691539", "call_sid": "CA8b836872947117d367dd3e0c6eefd84e", "speaker": "you_human", "text": "Hello, hello."}
+{"ts_utc": "2026-02-19T14:35:59.680696", "call_sid": "CA8b836872947117d367dd3e0c6eefd84e", "speaker": "patient_bot", "text": "Hi there! I'm trying to schedule an appointment. Can you provide me with some available dates and times?"}
+{"ts_utc": "2026-02-19T14:36:09.950226", "call_sid": "CA8b836872947117d367dd3e0c6eefd84e", "speaker": "patient_bot", "text": "Hi there! I'm trying to schedule an appointment. Can you provide me with some available dates and times?"}

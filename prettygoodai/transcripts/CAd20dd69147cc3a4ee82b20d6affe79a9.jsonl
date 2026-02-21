@@ -1,0 +1,3 @@
+{"ts_utc": "2026-02-19T14:18:32.269649", "call_sid": "CAd20dd69147cc3a4ee82b20d6affe79a9", "speaker": "patient_bot", "text": "Hi, I'd like to schedule an appointment, please. What availability do you have?"}
+{"ts_utc": "2026-02-19T14:18:46.869827", "call_sid": "CAd20dd69147cc3a4ee82b20d6affe79a9", "speaker": "you_human", "text": "we have availability for next 8:00 p.m."}
+{"ts_utc": "2026-02-19T14:18:48.639252", "call_sid": "CAd20dd69147cc3a4ee82b20d6affe79a9", "speaker": "patient_bot", "text": "I'll take the 8:00 p.m. slot. Thank you!"}

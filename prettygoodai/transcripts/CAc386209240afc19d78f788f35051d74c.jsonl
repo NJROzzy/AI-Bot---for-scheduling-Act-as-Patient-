@@ -1,0 +1,3 @@
+{"ts_utc": "2026-02-19T15:32:24.858040", "call_sid": "CAc386209240afc19d78f788f35051d74c", "speaker": "patient_bot", "text": "Hi, I\u2019d like to schedule a routine appointment. Can you tell me your availability?"}
+{"ts_utc": "2026-02-19T15:32:36.362590", "call_sid": "CAc386209240afc19d78f788f35051d74c", "speaker": "you_human", "text": "Your name first and then, of course."}
+{"ts_utc": "2026-02-19T15:32:36.363284", "call_sid": "CAc386209240afc19d78f788f35051d74c", "speaker": "patient_bot", "text": "Sure \u2014 my full name is Nitish John Rawat, and my date of birth is August 2nd, 2002."}

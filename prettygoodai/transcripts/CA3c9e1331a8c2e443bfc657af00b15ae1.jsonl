@@ -1,0 +1,13 @@
+{"ts_utc": "2026-02-19T15:05:03.758618", "call_sid": "CA3c9e1331a8c2e443bfc657af00b15ae1", "speaker": "patient_bot", "text": "Hi, I\u2019d like to schedule an appointment, please. What availability do you have?"}
+{"ts_utc": "2026-02-19T15:05:12.912125", "call_sid": "CA3c9e1331a8c2e443bfc657af00b15ae1", "speaker": "you_human", "text": "Please."}
+{"ts_utc": "2026-02-19T15:05:15.683927", "call_sid": "CA3c9e1331a8c2e443bfc657af00b15ae1", "speaker": "patient_bot", "text": "Could you provide me with some available dates and times for an appointment?"}
+{"ts_utc": "2026-02-19T15:05:23.553436", "call_sid": "CA3c9e1331a8c2e443bfc657af00b15ae1", "speaker": "you_human", "text": "What is your name, please?"}
+{"ts_utc": "2026-02-19T15:05:24.722129", "call_sid": "CA3c9e1331a8c2e443bfc657af00b15ae1", "speaker": "patient_bot", "text": "My name is Alex. Thank you!"}
+{"ts_utc": "2026-02-19T15:05:37.071424", "call_sid": "CA3c9e1331a8c2e443bfc657af00b15ae1", "speaker": "you_human", "text": "Can you tell me your date of birth to verify?"}
+{"ts_utc": "2026-02-19T15:05:37.961490", "call_sid": "CA3c9e1331a8c2e443bfc657af00b15ae1", "speaker": "patient_bot", "text": "Sure, my date of birth is January 15, 1990."}
+{"ts_utc": "2026-02-19T15:05:50.482588", "call_sid": "CA3c9e1331a8c2e443bfc657af00b15ae1", "speaker": "you_human", "text": "Okay. The dates are available at 21st and 22nd."}
+{"ts_utc": "2026-02-19T15:05:51.576210", "call_sid": "CA3c9e1331a8c2e443bfc657af00b15ae1", "speaker": "patient_bot", "text": "I would like to schedule the appointment for the 21st, please."}
+{"ts_utc": "2026-02-19T15:06:03.179936", "call_sid": "CA3c9e1331a8c2e443bfc657af00b15ae1", "speaker": "you_human", "text": "Okay, 21st is available. Timing is 2 p.m. to 5:00 p.m."}
+{"ts_utc": "2026-02-19T15:06:04.510216", "call_sid": "CA3c9e1331a8c2e443bfc657af00b15ae1", "speaker": "patient_bot", "text": "Let's go with 2 p.m. on the 21st, please."}
+{"ts_utc": "2026-02-19T15:06:16.745071", "call_sid": "CA3c9e1331a8c2e443bfc657af00b15ae1", "speaker": "you_human", "text": "Okay, it is booked. Thank you for calling."}
+{"ts_utc": "2026-02-19T15:06:17.717456", "call_sid": "CA3c9e1331a8c2e443bfc657af00b15ae1", "speaker": "patient_bot", "text": "Thanks for your help! I'm done."}

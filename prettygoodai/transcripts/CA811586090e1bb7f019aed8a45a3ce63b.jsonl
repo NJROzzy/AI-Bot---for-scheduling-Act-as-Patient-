@@ -1,0 +1,13 @@
+{"ts_utc": "2026-02-19T15:41:37.473776", "call_sid": "CA811586090e1bb7f019aed8a45a3ce63b", "speaker": "patient_bot", "text": "Hi, I\u2019d like to schedule a routine appointment. Can you tell me your availability?"}
+{"ts_utc": "2026-02-19T15:41:47.951184", "call_sid": "CA811586090e1bb7f019aed8a45a3ce63b", "speaker": "you_human", "text": "Your name."}
+{"ts_utc": "2026-02-19T15:41:49.781535", "call_sid": "CA811586090e1bb7f019aed8a45a3ce63b", "speaker": "patient_bot", "text": "Sure \u2014 my full name is Nitish John Rawat, and my date of birth is August 2nd, 2002."}
+{"ts_utc": "2026-02-19T15:42:09.340327", "call_sid": "CA811586090e1bb7f019aed8a45a3ce63b", "speaker": "you_human", "text": "okay, now there's not available 22nd and 23rd 2000 p.m. to 5:00 p.m."}
+{"ts_utc": "2026-02-19T15:42:11.193378", "call_sid": "CA811586090e1bb7f019aed8a45a3ce63b", "speaker": "patient_bot", "text": "Got it, thanks for the info. How about the 24th? Do you have any openings then?"}
+{"ts_utc": "2026-02-19T15:42:28.317561", "call_sid": "CA811586090e1bb7f019aed8a45a3ce63b", "speaker": "you_human", "text": "Okay, available."}
+{"ts_utc": "2026-02-19T15:42:29.913345", "call_sid": "CA811586090e1bb7f019aed8a45a3ce63b", "speaker": "patient_bot", "text": "Great! What times do you have available on the 24th?"}
+{"ts_utc": "2026-02-19T15:42:42.473457", "call_sid": "CA811586090e1bb7f019aed8a45a3ce63b", "speaker": "you_human", "text": "2:00 p.m. to 4:00 p.m."}
+{"ts_utc": "2026-02-19T15:42:43.947655", "call_sid": "CA811586090e1bb7f019aed8a45a3ce63b", "speaker": "patient_bot", "text": "I'll take the appointment at 2:00 p.m. on the 24th, please."}
+{"ts_utc": "2026-02-19T15:42:58.082290", "call_sid": "CA811586090e1bb7f019aed8a45a3ce63b", "speaker": "you_human", "text": "Okay."}
+{"ts_utc": "2026-02-19T15:42:59.545232", "call_sid": "CA811586090e1bb7f019aed8a45a3ce63b", "speaker": "patient_bot", "text": "Can you please confirm the appointment for me?"}
+{"ts_utc": "2026-02-19T15:43:13.951883", "call_sid": "CA811586090e1bb7f019aed8a45a3ce63b", "speaker": "you_human", "text": "Yes, it is. Confirmed say the region."}
+{"ts_utc": "2026-02-19T15:43:15.896228", "call_sid": "CA811586090e1bb7f019aed8a45a3ce63b", "speaker": "patient_bot", "text": "Thank you! Just to confirm, my appointment is on the 24th at 2:00 p.m."}

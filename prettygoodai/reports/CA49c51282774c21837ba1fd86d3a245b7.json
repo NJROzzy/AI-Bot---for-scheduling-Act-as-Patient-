@@ -1,0 +1,13 @@
+{
+  "summary": "The phone call transcript reveals a significant issue with the appointment booking system, resulting in an abrupt termination of the call due to an application error. This not only affects customer experience but also raises concerns about the reliability of the service.",
+  "issues": [
+    {
+      "severity": "high",
+      "category": "System Error",
+      "evidence": "The call ended with 'We are sorry. An application error has occurred. Goodbye.'",
+      "why_it_matters": "An application error that causes the call to end abruptly can lead to customer frustration and loss of trust in the service.",
+      "suggestion": "Investigate the cause of the application error and implement error handling to ensure calls do not terminate unexpectedly."
+    }
+  ],
+  "overall_score": 3
+}

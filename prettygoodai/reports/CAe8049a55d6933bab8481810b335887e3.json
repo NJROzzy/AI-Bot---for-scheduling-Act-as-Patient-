@@ -1,0 +1,20 @@
+{
+  "summary": "The phone call transcript captures a routine appointment scheduling interaction. However, there are inconsistencies in the dates provided, which could lead to confusion for the caller.",
+  "issues": [
+    {
+      "severity": "high",
+      "category": "Data Accuracy",
+      "evidence": "The agent initially states the available dates as 20, 21, and 22, but later confirms them as 19, 20, and 21.",
+      "why_it_matters": "Inaccurate information can lead to scheduling errors, resulting in customer dissatisfaction and potential loss of trust in the service.",
+      "suggestion": "Ensure that the agent verifies and confirms the correct dates before finalizing the appointment."
+    },
+    {
+      "severity": "medium",
+      "category": "Clarity of Communication",
+      "evidence": "The phrase 'Okay, one moment' is repeated multiple times, which may indicate a lack of clarity or confidence in the conversation.",
+      "why_it_matters": "Repetitive phrases can create a perception of uncertainty and may frustrate the caller, impacting their overall experience.",
+      "suggestion": "Train agents to provide more informative responses or updates instead of repetitive phrases."
+    }
+  ],
+  "overall_score": 6
+}
